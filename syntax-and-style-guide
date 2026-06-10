@@ -1,0 +1,27 @@
+# Syntax and Style Guide
+
+> 💡 Here's some useful info
+
+
+> **Pro Tip:** 
+
+
+
+**🎓 You Do**
+
+- Delete the file and the directory that you just created.
+- Use the `rm` command to delete the `file.txt` file. The syntax for the `rm` command is similar to the `touch` command, but it destroys instead of creates. There is no trash to recover files from after they are deleted with this command, so use it carefully.
+
+
+<details>
+<summary>Drop Down</summary>
+
+This section contains extra information students can open only when needed.
+
+### Key Terms
+
+- Terminal
+- Command line
+- Shell
+
+</details>
