@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "MDN",
-    "name": "mdn",
+    "friendlyName": "SEB 14 Class Schedule",
+    "name": "seb-14-class-schedule",
     "type": "Lesson"
   },
   "courses": [
@@ -14,14 +14,14 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "About",
-          "dirName": "about",
+          "friendlyName": "",
+          "dirName": "microlesson",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Anatomy of an Article",
-          "dirName": "anatomy-of-an-article",
+          "friendlyName": "",
+          "dirName": "microlesson",
           "type": "Content",
           "videoUrl": ""
         }
@@ -53,14 +53,14 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "About",
-          "dirName": "about",
+          "friendlyName": "",
+          "dirName": "microlesson",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Anatomy of an Article",
-          "dirName": "anatomy-of-an-article",
+          "friendlyName": "",
+          "dirName": "microlesson",
           "type": "Content",
           "videoUrl": ""
         }
