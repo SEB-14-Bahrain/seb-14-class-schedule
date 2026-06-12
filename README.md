@@ -18,11 +18,8 @@ Unit 1 - HTML | CSS | JavaScript
 </h2>
 
 <ul type="none">
-
   <li><details><summary><strong>Week 1</strong></summary>
-
   <br>
-
   <table>
     <tr>
       <th>Sunday</th>
@@ -82,16 +79,11 @@ Unit 1 - HTML | CSS | JavaScript
       </td>
     </tr>
   </table>
-
   </details></li>
-
   </ul>
   <ul type="none">
-
   <li><details><summary><strong>Week 2</strong></summary>
-
   <br>
-
   <table>
     <tr>
       <th>Sunday</th>
@@ -136,16 +128,11 @@ Unit 1 - HTML | CSS | JavaScript
         <br>
       </td>
   </table>
-
   </details></li>
-
   </ul>
   <ul type="none">
-
   <li><details><summary><strong>Week 3</strong></summary>
-
   <br>
-
   <table>
     <tr>
       <th>Sunday</th>
@@ -187,11 +174,8 @@ Unit 1 - HTML | CSS | JavaScript
         <br>
       </td>
   </table>
-
   </details></li>
-
 </ul>
-
 
 <!--
 ___
@@ -898,6 +882,6 @@ ___
 
 
 -->
-</ul></details> 
+</ul></details>
 
-___
+---
