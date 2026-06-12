@@ -171,6 +171,10 @@
   </table>
 </details>
 
+<h2>Unit 2 - Fullstack Development</h2>
+<h2>Unit 3 - React</h2>
+<h2>Unit 4 - Python</h2>
+
 <!--
 ___
 
