@@ -19,7 +19,6 @@
 
 <details open>
   <summary><strong>Week 1</strong></summary>
-
   <table>
     <thead>
       <tr>
@@ -877,6 +876,3 @@ ___
 
 
 -->
-</ul></details>
-
----
