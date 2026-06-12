@@ -9,10 +9,11 @@ Welcome to the <b>SEB-14-Bahrain Class Schedule</b>.
 
 This will be the central place where the links for the lessons, labs, and resources will be. You can check for the week and day and see what the content is for the day.
 
-</div>
-___
+<strong>Subject to change</strong>
 
-<details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary>
+</div>
+
+<strong>Unit 1</strong> - HTML | CSS | JavaScript
 
 <br>
 
@@ -40,18 +41,21 @@ ___
         <br><hr>
         <a href="https://seb-bh.github.io/intro-to-git-and-github-lab/">Git and Github Lab</a>
         <br>
+        <br><hr>
+        <a href="https://seb-bh.github.io/html-css-research-lab/">HTML & CSS Research Lab</a>
+        <br>
       </td>
       <td>
         <a href="https://ga-curriculum.github.io/intro-to-html/canvas-landing-pages/seb">Intro to HTML</a>
         <br><hr>
         <a href="https://ga-curriculum.github.io/intro-to-css/canvas-landing-pages/seb">Intro to CSS</a>
         <br><hr>
+        <a href="https://ga-curriculum.github.io/intro-to-javascript/canvas-landing-pages/seb.html">Intro to JavaScript</a>
+        <br><hr>
         <a href="https://seb-bh.github.io/intro-to-html-and-css-lab/">Intro to HTML & CSS Lab</a>
         <br>
       </td>
       <td>
-        <a href="https://ga-curriculum.github.io/intro-to-javascript/canvas-landing-pages/seb.html">Intro to JavaScript</a>
-        <br><hr>
         <a href="https://ga-curriculum.github.io/javascript-control-flow/canvas-landing-pages/seb">JS Control Flow</a>
         <br><hr>
         <a href="https://ga-curriculum.github.io/intro-to-javascript-functions/canvas-landing-pages/seb">JS Functions</a>
@@ -64,26 +68,22 @@ ___
       <td>
         <br>
         <b>Holiday</b>
-        <br><hr>
+        <br>
       </td>
       <td>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-javascript-arrays">JS Arrays</a>
+        <a href="https://ga-curriculum.github.io/javascript-scope/canvas-landing-pages/seb">JS Scope</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-javascript-arrays-lab">JS Arrays Lab</a>
+        <a href="https://ga-curriculum.github.io/mdn/canvas-landing-pages/seb">MDN</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/javascript-scope">JS Scope</a>
+        <a href="https://ga-curriculum.github.io/intro-to-javascript-arrays/canvas-landing-pages/seb">JS Arrays</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-javascript-objects">JavaScript Objects</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-javascript-objects-lab">JavaScript Objects Lab</a>
+        <a href="https://ga-curriculum.github.io/intro-to-javascript-arrays-lab/canvas-landing-pages/seb">JS Arrays Lab</a>
         <br>
       </td>
     </tr>
   </table>
 
   </details></li>
-
-  ___
 
   <li><details><summary><strong>Week 2</strong></summary>
 
@@ -99,58 +99,92 @@ ___
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-the-dom">Intro to DOM</a>
+        <a href="">JavaScript Objects</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/dom-events">DOM events</a>
+        <a href="">Intro to the DOM</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/dom-events-lab">Calculator Lab</a>
+        <a href="">JavaScript Objects Lab</a>
         <br>
       </td>
       <td>
-        <a href="https://github.com/SEB-14-Bahrain/dom-events-lab">Code Along Calculator Lab</a>
+        <a href="">DOM events</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/javascript-browser-game-rock-paper-scissors">Rock, Paper, Scissors Code Along</a>
+        <a href="">DOM Events Lab</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/javascript-browser-game-tic-tac-toe-lab">Tic Tac Toe (XO) Lab</a>
+        <a href="">Rock, Paper, Scissors Codealong</a>
         <br>
       </td>
       <td>
-        <a href="https://github.com/SEB-14-Bahrain/intermediate-css">Intermediete CSS</a>
+        <a href="">Rock, Paper, Scissors Codealong</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/flexbox">Flexbox</a>
+        <a href="">Intermediete CSS</a>
         <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/responsive-design">Responsive Design</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/flexbox-lab">Flexbox Lab</a>
+        <a href="">Tic Tac Toe (XO) Lab</a>
         <br>
       </td>
       <td>
-        <a href="https://github.com/SEB-14-Bahrain/javascript-array-iterator-methods">Array Iterator Methods</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/javascript-array-iterator-methods-lab">Array Iterator Lab</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-accessibility">Intro to Accessibility</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/intro-to-markdown-lab">Intro to Markdown</a>
+        <br>
+        <b>Holiday</b>
         <br>
       </td>
       <td>
-        <a href="https://github.com/SEB-14-Bahrain/unit1-project">Project 1</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/unit1-project">Project 1 Work Time</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/unit1-project">Project 1 Work Time</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/unit1-project">Project 1 Work Time</a>
-        <br><hr>
-        <a href="https://github.com/SEB-14-Bahrain/unit1-project">Project 1 Work Time</a>
+        <br>
+        <b>Holiday</b>
         <br>
       </td>
   </table>
 
   </details></li>
 
-</ul></details>
+  <li><details><summary><strong>Week 3</strong></summary>
+
+  <br>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="">Flexbox</a>
+        <br><hr>
+        <a href="">Flexbox Lab</a>
+        <br><hr>
+        <a href="">Array Iterator Methods</a>
+        <br><hr>
+        <a href="">Array Iterator Lab</a>
+        <br>
+      </td>
+      <td>
+        <br>
+        <b>Project 1 Kickoff</b>
+        <br>
+      </td>
+      <td>
+        <!-- <a href="">Intro to Accessiblity</a> -->
+        <br><hr>
+        <b>Project 1 Work Time</b>
+        <br>
+      </td>
+      <td>
+        <!-- <a href="">Intro to Markdown</a> -->
+        <br><hr>
+        <b>Project 1 Work Time</b>
+        <br>
+      </td>
+      <td>
+        <b>Project 1 Presentations</b>
+        <br>
+      </td>
+  </table>
+
+  </details></li>
+
+</ul>
 
 
 <!--
