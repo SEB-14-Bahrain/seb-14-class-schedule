@@ -13,9 +13,9 @@ This will be the central place where the links for the lessons, labs, and resour
 
 </div>
 
-<strong>Unit 1</strong> - HTML | CSS | JavaScript
-
-<br>
+<h2>
+Unit 1 - HTML | CSS | JavaScript
+</h2>
 
 <ul type="none">
 
@@ -85,6 +85,9 @@ This will be the central place where the links for the lessons, labs, and resour
 
   </details></li>
 
+  </ul>
+  <ul type="none">
+
   <li><details><summary><strong>Week 2</strong></summary>
 
   <br>
@@ -136,6 +139,9 @@ This will be the central place where the links for the lessons, labs, and resour
 
   </details></li>
 
+  </ul>
+  <ul type="none">
+
   <li><details><summary><strong>Week 3</strong></summary>
 
   <br>
@@ -166,13 +172,13 @@ This will be the central place where the links for the lessons, labs, and resour
       </td>
       <td>
         <!-- <a href="">Intro to Accessiblity</a> -->
-        <br><hr>
+        <br>
         <b>Project 1 Work Time</b>
         <br>
       </td>
       <td>
         <!-- <a href="">Intro to Markdown</a> -->
-        <br><hr>
+        <br>
         <b>Project 1 Work Time</b>
         <br>
       </td>
