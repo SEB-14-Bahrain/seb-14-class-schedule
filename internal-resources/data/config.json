@@ -14,8 +14,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "",
-          "dirName": "microlesson",
+          "friendlyName": "Classroom Policies",
+          "dirName": "classroom-policies",
           "type": "Content",
           "videoUrl": ""
         },
@@ -53,8 +53,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "",
-          "dirName": "microlesson",
+          "friendlyName": "Classroom Policies",
+          "dirName": "classroom-policies",
           "type": "Content",
           "videoUrl": ""
         },
