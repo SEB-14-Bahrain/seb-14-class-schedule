@@ -18,6 +18,16 @@
           "dirName": "classroom-policies",
           "type": "Content",
           "videoUrl": ""
+        },        {
+          "friendlyName": "Schedule",
+          "dirName": "schedule",
+          "type": "Content",
+          "videoUrl": ""
+        },        {
+          "friendlyName": "Homework Submission",
+          "dirName": "homework-submission",
+          "type": "Content",
+          "videoUrl": ""
         }
       ],
       "isHeaderShown": true,
@@ -49,6 +59,16 @@
         {
           "friendlyName": "Classroom Policies",
           "dirName": "classroom-policies",
+          "type": "Content",
+          "videoUrl": ""
+        },        {
+          "friendlyName": "Schedule",
+          "dirName": "schedule",
+          "type": "Content",
+          "videoUrl": ""
+        },        {
+          "friendlyName": "Homework Submission",
+          "dirName": "homework-submission",
           "type": "Content",
           "videoUrl": ""
         }

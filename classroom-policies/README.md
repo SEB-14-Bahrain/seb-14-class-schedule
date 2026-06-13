@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Welcome to SEB!!! 🎉</span>
-  <span class="subhead">Classroom Policies</span>
+  <span class="headline">Classroom Policies</span>
+  <span class="subhead">SEB 14</span>
 </h1>
 
 ## Course Structure
