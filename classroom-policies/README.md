@@ -117,7 +117,9 @@ A simple rule:
   ∙ Can you improve the wording of these setup instructions?
 </details>
 
-**You may not use AI to:**
+<br>
+
+**You may <span style="color:red;">not</span> use AI to:**
 
 * Complete a lab for you
 * Generate a full project and submit it as your own
