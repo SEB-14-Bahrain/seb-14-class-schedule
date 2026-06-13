@@ -1,9 +1,9 @@
 <h1>
-  <span class="headline">Welcome to SEB!!! </span>
-  <span class="subhead">🎉</span>
+  <span class="headline">Welcome to SEB!!! 🎉</span>
+  <span class="subhead">Classroom Policies</span>
 </h1>
 
-## Class Structure
+## Course Structure
 
 #### Course Dates
 - Sunday - Thursday, 9 am to 5 pm
@@ -191,6 +191,12 @@ The growth mindset here is understanding that even when something doesn't work, 
 
 Throughout the course many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
 
+#### Embrace failure.
+
+* Here we learn by doing, and things don't always (and usually won't) go right the first time.
+* This is normal. Expect it.
+* Fail often and learn from it.
+  
 #### There's no winning or losing.
 
 * This is a non-competitive environment.
@@ -198,11 +204,6 @@ Throughout the course many students say something along the lines of "I don't kn
 * Everyone enters and leaves at different levels. Try to compare you with you only.
 * Use your classmates' work as inspiration to improve your own!
 
-#### Embrace failure.
-
-* Here we learn by doing, and things don't always (and usually won't) go right the first time.
-* This is normal. Expect it.
-* Fail often and learn from it.
-
+**With that in mind, the final and most important policy is to treat everyone with dignity and respect!**
 
 # Good luck and happy coding!

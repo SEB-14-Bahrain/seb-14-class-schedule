@@ -18,12 +18,6 @@
           "dirName": "classroom-policies",
           "type": "Content",
           "videoUrl": ""
-        },
-        {
-          "friendlyName": "",
-          "dirName": "microlesson",
-          "type": "Content",
-          "videoUrl": ""
         }
       ],
       "isHeaderShown": true,
@@ -55,12 +49,6 @@
         {
           "friendlyName": "Classroom Policies",
           "dirName": "classroom-policies",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "",
-          "dirName": "microlesson",
           "type": "Content",
           "videoUrl": ""
         }
