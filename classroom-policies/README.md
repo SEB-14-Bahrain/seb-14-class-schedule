@@ -30,7 +30,7 @@ We cover these technologies / topics because they are foundational to developmen
 
 Most days will be a combination of lectures and lab time (where you can work with your peers and get hands on practice).  There are a few days each unit where most or all of the day is devoted a codealong where we'll build a project together as a class.  
 
-Every day we will always take a lunch break at 11:30 am until 1:00pm and a short afternoon break from 3:00pm to 3:30pm.  I will also try to give small 5 minute breaks throughout the day as time permits.
+Every day we will always take a break at 11:30am until 12:00pm, lunch break from 1:00pm to 2:00pm and another short afternoon break from 3:00pm to 3:30pm.  I will also try to give small 5 minute breaks throughout the day as time permits.
 
 #### Project Weeks Scheulde
 
