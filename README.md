@@ -13,6 +13,8 @@
   <p>
     <strong>Subject to change</strong>
   </p>
+
+  <a href="./classroom-policies/README.md">Click here for Classroom Policies</a>
 </div>
 
 <h2>Unit 1 - HTML | CSS | JavaScript</h2>
