@@ -8,7 +8,7 @@
 #### Course Dates
 - Sunday - Thursday, 9 am to 5 pm
 - 14 June to 03 September
-  - 17 June, **Holiday - no class**
+  - 16 June, **Holiday - no class**
   - 24-25 June, **Holiday - no class**
   - 24-25 June, **Holiday - no class**
   - 26 August, **Holiday - no class**
