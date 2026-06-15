@@ -56,7 +56,7 @@
           <a href="https://seb-bh.github.io/intro-to-html-and-css-lab/">
             Intro to HTML & CSS Lab
           </a><br><br>
-          <strong>Early Release (4:00 pm)</strong>
+          <strong>Early Release</strong>
         </td>
         <td>
           <strong>Holiday</strong>
