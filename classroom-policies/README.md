@@ -10,7 +10,6 @@
 - 14 June to 03 September
   - 16 June, **Holiday - no class**
   - 24-25 June, **Holiday - no class**
-  - 24-25 June, **Holiday - no class**
   - 26 August, **Holiday - no class**
   - _Holidays are subject to change_
 
