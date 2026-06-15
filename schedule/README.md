@@ -53,14 +53,17 @@
           <a href="https://ga-curriculum.github.io/intro-to-css/canvas-landing-pages/seb">
             Intro to CSS
           </a><br><br>
-          <a href="https://ga-curriculum.github.io/intro-to-javascript/canvas-landing-pages/seb.html">
-            Intro to JavaScript
-          </a><br><br>
           <a href="https://seb-bh.github.io/intro-to-html-and-css-lab/">
             Intro to HTML & CSS Lab
           </a>
         </td>
         <td>
+          <strong>Holiday</strong>
+        </td>
+        <td>
+          <a href="https://ga-curriculum.github.io/intro-to-javascript/canvas-landing-pages/seb.html">
+            Intro to JavaScript
+          </a><br><br>
           <a href="https://ga-curriculum.github.io/javascript-control-flow/canvas-landing-pages/seb">
             JS Control Flow
           </a><br><br>
@@ -71,9 +74,6 @@
             JS Functions Lab
           </a><br><br>
           <strong>Career Coaching</strong>
-        </td>
-        <td>
-          <strong>Holiday</strong>
         </td>
         <td>
           <a href="https://ga-curriculum.github.io/javascript-scope/canvas-landing-pages/seb">
